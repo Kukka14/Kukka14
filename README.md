@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thakshila Gunawardena</h1>
-<h3 align="center">I am an IT student who is passionate about new technology in the universe</h3>
+<h3 align="center">I am an Data Science student who is passionate about new technology in the universe</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kukka14&label=Profile%20views&color=0e75b6&style=flat" alt="kukka14" /> </p>
 
