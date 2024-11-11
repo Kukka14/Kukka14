@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **machine learning**
 
-- 🌱 I’m an undergraduate at **SLIIT** Data Science
+- 🌱 I’m Undergraduate Student | SLIIT | BSc (Hons) in Information Technology Specializing in **Data Science**
 
 - 💬 Ask me about **anything**
 
