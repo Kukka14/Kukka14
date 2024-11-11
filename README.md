@@ -5,7 +5,7 @@
 
 ---
 
-- 🔭 I’m currently working on **machine learning**
+- 🔭 I’m currently working on **Data Analysis**
 
 - 🌱 I’m Undergraduate Student | SLIIT | BSc (Hons) in Information Technology Specializing in **Data Science**
 
