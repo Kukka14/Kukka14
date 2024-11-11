@@ -5,9 +5,9 @@
 
 ---
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **machine learning**
 
-- 🌱 I’m an undergraduate at **SLIIT**
+- 🌱 I’m an undergraduate at **SLIIT** Data Science
 
 - 💬 Ask me about **anything**
 
